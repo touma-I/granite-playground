@@ -1,1 +1,1 @@
-# ganite-playground
+# granite-playground
