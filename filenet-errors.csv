@@ -1,0 +1,6 @@
+ErrorCode,ErrorName,ErrorMessage
+FNRAC1001W,WARN_TRACE_LOG_ENABLED,Server trace logging is enabled.
+FNRAC1002W,WARN_ADDON_CANNOT_BE_ UNSELECTED,The selection of this add-on feature cannot be...
+FNRAC1001E,ERR_UNEXPECTED,An unexpected error occurred.
+FNRAC1002E,ERR_LOGIN_AUTHENTICATION,The system cannot log you on right now.
+FNRAC1003E,ERR_LOGIN_ACTIVITY,You are no longer logged on.
